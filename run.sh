@@ -1,0 +1,1 @@
+marp -I slides -o docs  --allow-local-files
