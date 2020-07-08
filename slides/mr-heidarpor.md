@@ -19,7 +19,6 @@ paginate: true
 
 ---
 
-#ffffff
 
 # Useful application for collaborating
 
