@@ -5,8 +5,8 @@ paginate: true
 # We have three main platform
 
 - Android/iOS(Cellphone)
-- window/linux (desktop)
-- web
+- Windows/Linux (desktop)
+- Web
 
 ---
 # Main Roles in web development environment
