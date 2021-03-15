@@ -16,6 +16,10 @@ paginate: true
 - DevOps
 
 ---
+
+# My skills
+
+---
 ![bg right:60%](https://www.developersacademy.org/blog/wp-content/uploads/2018/04/php.png)
 
 # PHP
